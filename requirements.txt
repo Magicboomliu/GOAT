@@ -1,0 +1,24 @@
+# Core dependencies
+torch>=1.7.0
+torchvision>=0.8.0
+numpy>=1.19.0
+Pillow>=8.0.0
+
+# Training and visualization
+tensorboard>=2.4.0
+timm>=0.4.9
+einops>=0.3.0
+
+# Data processing
+scipy>=1.5.0
+scikit-image>=0.17.0
+imageio>=2.9.0
+pandas>=1.1.0
+
+# Utilities
+PyYAML>=5.4.1
+tqdm>=4.50.0
+
+# Deformable convolution (optional, build from source)
+# See deform/README.md for installation instructions
+

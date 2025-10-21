@@ -1,0 +1,7 @@
+
+  {
+    "loss_scale":4,
+    "round":1,
+    "loss_weights":[[1.0, 0.8, 0.8, 0.6]],
+    "epoches":[500]
+}
